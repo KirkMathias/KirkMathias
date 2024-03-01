@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for opportunities in the **data science and analysis sector.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KirkMathias](https://github.com/KirkMathias)
+- 👨‍💻 All of my projects are available at [https://github.com/KirkMathias](https://github.com/KirkMathias?tab=repositories)
 
 - 💬 Ask me about **Data Science & Data Analysis**
 
